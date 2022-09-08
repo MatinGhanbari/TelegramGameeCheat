@@ -1,0 +1,57 @@
+* {
+    font-family: "Bookman Old Style";
+    font-size: 14px;
+}
+
+.QWidget {
+    background-image: url("core/images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.QLabel {
+    margin: 10px;
+    border-radius: 12px;
+}
+
+.QLabel:hover {
+    /*color: #000000;*/
+    /*background-color: rgba(152, 152, 152, 0.13);*/
+    /*font-size: 22px;*/
+}
+
+#update_score {
+    background-color: #89b602;
+    border-radius: 20px;
+}
+
+#update_score:hover {
+    background-color: #beff00;
+}
+
+#set_url {
+    background-color: #02b6a1;
+    border-radius: 12px;
+
+}
+
+#set_url:hover {
+    background-color: #00ffe0;
+}
+
+#back_button {
+    background-color: #b63202;
+    border-radius: 20px;
+}
+
+#back_button:hover {
+    background-color: #ff4500;
+}
+
+#logo:hover {
+    background-color: transparent;
+}
+
+#url_input {
+    padding: 5px;
+}

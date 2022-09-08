@@ -1,0 +1,58 @@
+{
+  'jsonrpc': '2.0',
+  'result': {
+    'game': {
+      'id': 212,
+      'name': 'Karate Kido 2',
+      'code': 'karatekid2',
+      'slug': 'KarateKid2',
+      'gamepadId': 44,
+      'image': 'https://games.cdn.gamee.io/games/game-212/a73f974a22046f09a8f7d585e2a76865.jpg',
+      'thumb': 'https://games.cdn.gamee.io/games/game-212/eae443b0b7f9045d6099437e2def18e0.jpg',
+      'gamePlays': 609998660,
+      'likes': 6479,
+      'socialsImage': 'https://games.cdn.gamee.io/games/game-212/ff66cd2adec37d0a7b85394caae9aadc.jpg',
+      'genresNames': [
+        'Arcade'
+      ],
+      'isBattleReady': True,
+      'release': {
+        'number': 8,
+        'size': 2595339,
+        'package': 'https://games.cdn.gamee.io/games/game-212/8-44885cfd-6302-471b-9327-0e8e595201b8.zip'
+      },
+      'url': 'https://prizes.gamee.com/game/karatekid2',
+      'iLike': False,
+      'myTier': 0,
+      'myScore': 0,
+      'iHavePlayed': False,
+      'itunesId': '1435501289',
+      'tag': None,
+      'priceToOpen': 0,
+      'alreadyUnlocked': False,
+      'isMultiplayer': False,
+      'openTime': None,
+      'developer': {
+        'id': 6,
+        'name': 'GAMEE',
+        'slug': 'gamee',
+        'logo': 'https://games.cdn.gamee.io/developers/developer-6/6982316eadbea47da5a0b3498d7c3228.png',
+        'image': 'http://api.gameeapp.com/images/developers/image-6.png',
+        'splash': 'http://api.gameeapp.com/images/developers/image-6.png',
+        'advertisementSetting': 'off',
+        'adUnitIdIos': '',
+        'adUnitIdAndroid': '',
+        'gamesCount': 53,
+        'gamePlays': 2147483633,
+        'followersCount': 0
+      }
+    },
+    'gameDescription': 'Get ready to walk the path of Karate Kido! New characters, new environment and rich gameplay will keep you entertained for hours!',
+    'sharingType': 'telegram',
+    'botData': None
+  },
+  'id': 'game.getWebGameplayDetails',
+  'time': '2022-07-17T15:46:01+00:00',
+  'user': None,
+  'achievements': {}
+}
